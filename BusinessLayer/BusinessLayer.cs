@@ -9,6 +9,7 @@ namespace SchoolGrades.BusinessLayer
 {
     /// <summary>
     /// Business Layer: implements the business rules of the program indipendently from 
+    /// ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
     /// the User's Interface 
     /// </summary>
     internal class BusinessLayer
